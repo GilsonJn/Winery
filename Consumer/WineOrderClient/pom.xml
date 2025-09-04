@@ -30,7 +30,7 @@
                 </executions>
                 <configuration>
                     <wsdlUrls>
-                        <wsdlUrl>http://localhost:8085/WineStockService?wsdl</wsdlUrl>
+                        <wsdlUrl>http://localhost:8086/WineWarningService?wsdl</wsdlUrl>
                     </wsdlUrls>
                     <keep>true</keep>
                     <packageName>br.com.fiap.winery</packageName>
